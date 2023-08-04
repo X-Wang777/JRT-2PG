@@ -1,0 +1,1 @@
+This is the code of Simulation 1 for JRT-2PG model, which include a stan code and two R code.  In addition, make sure that you have installed the "rstan" package in your R program and that you can successfully execute the stan program.
